@@ -1,3 +1,5 @@
 <script>
-console.log("xss?")
+$(document).ready(
+console.log("Hola")
+)
 </script>
